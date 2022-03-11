@@ -7,10 +7,11 @@
 
 ## Credits
 
-sdm660 devs for their work
-jimgsey for the manifest
+* sdm660 devs for their work
+
+* jimgsey for the manifest
 
 ## Contact
 
-* If you want talk to me, here is my telegram: https://t.me/joja67
+* I am not a developer, only a Noob but if you want talk to me, here is my telegram: https://t.me/joja67
 
