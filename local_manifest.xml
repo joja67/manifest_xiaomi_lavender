@@ -2,20 +2,20 @@
 <manifest>
     <!--
     * target: lavender
-    * rom: Superior OS
+    * rom: Tuga OS
     -->
 
     <!-- Remote -->
-    <remote fetch="https://github.com/SuperiorOS-Devices" name="org" />
+    <remote fetch="https://github.com/joja67" name="org" />
 	
     <!-- Device -->
-    <project name="device_xiaomi_lavender" path="device/xiaomi/lavender" remote="org" revision="ten" />
-    <project name="device_xiaomi_lavender-common" path="device/xiaomi/sdm660-common" remote="org" revision="ten" />
+    <project name="device_xiaomi_lavender" path="device/xiaomi/lavender" remote="org" revision="twelve" />
+    <project name="device_xiaomi_sdm660-common" path="device/xiaomi/sdm660-common" remote="org" revision="twelve" />
     
     <!-- Kernel -->
-    <project name="kernel_xiaomi_lavender" path="kernel/xiaomi/sdm660" remote="org" revision="ten" />
+    <project name="kernel_xiaomi_sdm660" path="kernel/xiaomi/sdm660" remote="org" revision="HMP-a12-qti" />
 
     <!-- Vendor -->
-    <project name="vendor_xiaomi_lavender" path="vendor/xiaomi/lavender" remote="org" revision="ten" />
-    <project name="vendor_xiaomi_lavender-common" path="vendor/xiaomi/sdm660-common" remote="org" revision="ten" />
+    <project name="vendor_xiaomi_lavender" path="vendor/xiaomi/lavender" remote="org" revision="twelve" />
+    <project name="vendor_xiaomi_sdm660-common" path="vendor/xiaomi/sdm660-common" remote="org" revision="twelve" />
 </manifest>
